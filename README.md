@@ -8,4 +8,4 @@
 * Bioinformatics pipelines (R/Phyloseq)
 * Reagent development & Cost-optimisation
 
-**Current Focus:** Developing high-precision monitoring tools for microbial **candidate** tracking.
+**Current Focus:** Developing high-precision monitoring tools for microbial candidate tracking.
